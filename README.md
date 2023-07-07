@@ -27,11 +27,14 @@ Here are some ideas to get you started:
 
 ## &nbsp;GitHub Stats
 <div align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdaly7&layout=compact&langs_count=7&theme=midnight-purple"/>
 
-  ![gdaly7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdaly7&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gdaly7&theme=midnight-purple" alt="gdaly7" />
+  
+ 
+</div>
 
-  ![gdaly7's Stats](https://github-readme-stats.vercel.app/api?username=gdaly7&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-![gdaly7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gdaly7&theme=blueberry&hide_border=false)
+ 
 </div>
 
 ## &nbsp;Contact 
@@ -44,14 +47,8 @@ Here are some ideas to get you started:
   </a>
   
 </div>
-<div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdaly7&layout=compact&langs_count=7&theme=midnight-purple"/>
 
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gdaly7&theme=midnight-purple" alt="gdaly7" />
-  
-  ![gdaly7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdaly7&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-</div>
-![gdaly7's Top Languages]
+
 
 ## 🛠 &nbsp;Tech Stack | Tools
 
