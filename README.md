@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gdaly7&theme=midnight-purple" alt="gdaly7" />
 </div>
+![gdaly7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdaly7&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 ## 🛠 &nbsp;Tech Stack | Tools
 
