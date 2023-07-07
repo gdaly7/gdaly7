@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   ![gdaly7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdaly7&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
   ![gdaly7's Stats](https://github-readme-stats.vercel.app/api?username=gdaly7&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-
+![gdaly7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gdaly7&theme=blueberry&hide_border=false)
 </div>
 
 ## &nbsp;Contact 
