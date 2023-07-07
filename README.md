@@ -52,11 +52,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,materialui,nodejs,figma,markdown,firebase,mongodb,sqlite,postgres,docker,prisma,supabase,vercel,netlify,vite,vscode,express,git,jest,astro" />
   </a>
 </p>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
