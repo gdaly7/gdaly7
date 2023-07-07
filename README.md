@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://user-images.githubusercontent.com/95551770/172956447-e39e56b8-2de0-494b-adcf-2e3d3209800e.png" width="350rem" /> -->
 
 <div align="center"> 
-  I'm the kind of guy who learns everything I like incredibly fast and by my own. Passionate about contributing to open source and turning the word into a better place.
+  I'm the .
   <br />
   <a href="https://gavinpdaly.com/" target="_blank">Check out my porfolio!</a>
 </div>
