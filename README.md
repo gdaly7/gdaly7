@@ -34,6 +34,17 @@ Here are some ideas to get you started:
  
 </div>
 
+## &nbsp;Contact 
+<div align="left">
+  <a href="https://linkedin.com/in/gdaly7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:gdaly7@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo"  />
+  </a>
+  
+</div>
+
 
 
 
