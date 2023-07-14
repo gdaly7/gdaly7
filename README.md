@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ## &nbsp;GitHub Stats
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdaly7&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdaly7&layout=compact&langs_count=7&theme=midnight-purple"/>
 
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gdaly7&theme=midnight-purple" alt="gdaly7" />
+  <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gdaly7&theme=midnight-purple" alt="gdaly7" />
   
  
 </div>
