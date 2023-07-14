@@ -34,8 +34,7 @@ Here are some ideas to get you started:
  
 </div>
 
- 
-</div>
+
 
 ## &nbsp;Contact 
 <div align="left">
